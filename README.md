@@ -1,2 +1,2 @@
-# -KOLA
+#ŠKOLA
 Školské veci
